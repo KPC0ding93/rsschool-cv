@@ -1,8 +1,8 @@
-## _Resume_
+# _Resume_
 
 # Karolis Prokopas
 
-# Contact info
+## Contact info
 * 864662634
 * hitoutplayer@gmail.com
 
